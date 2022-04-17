@@ -47,6 +47,9 @@ Download it! Use it! and Share it!
 * Litre / 100km - 1 L/100km
 * Euro / 100km - 1 €/100km
 * TL / 100km - 1 ₺/100km
+* Kilometre / Litre - 1 km/L
+* U.S. Miles per Gallon - 1 mpg (US)
+* U.K. Miles per Gallon - 1 mpg (imp)
 
 ## Glucose
 
