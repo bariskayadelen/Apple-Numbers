@@ -27,6 +27,12 @@ Download it! Use it! and Share it!
 * Meter - 1 m
 * Centimeter - 1 cm
 * Milimeter - 1 mm
+* Micrometre - 1 μm
+* Nanometre - 1 nm
+* Mile - 1 mi
+* Yard - 1 yd
+* Foot - 1 ft
+* Inch - 1 in
 
 ## Electric
 
